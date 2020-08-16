@@ -14,7 +14,7 @@ It broke down while testing the propeller. But we re-connected the circuit and s
 The timetable for this Hong Kong exchange student's class
 ![수업 시간표](https://user-images.githubusercontent.com/43648295/90345551-799a7480-e05c-11ea-85f9-282a05dae25d.jpg)
 
-Day 3: Company visits
+Day 3: HKSTP Company visits
 ===
 We visited companies in Hong Kong Science Park. Similar to Kiva in the Amazon, a small robot carrying a large shelf was the most impressive.
 ![img30](https://user-images.githubusercontent.com/43648295/90345561-8fa83500-e05c-11ea-8013-423174ca0dba.JPG)
